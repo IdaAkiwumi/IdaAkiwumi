@@ -1,2 +1,1 @@
-# IdaAkiwumi
 Hello and Welcome! 🙋🏾
