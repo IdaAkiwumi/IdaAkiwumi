@@ -32,8 +32,6 @@
 
 * [**Soundstage Settings**](https://github.com/IdaAkiwumi/narrative-soundstage/settings/actions)
 * [**Vault Settings**](https://github.com/IdaAkiwumi/No-AI-No-Cloud-Vault/settings/actions)
-
 </details>
 
 ### 🏆 Featured Projects
-
