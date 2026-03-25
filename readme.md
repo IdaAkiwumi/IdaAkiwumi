@@ -1,5 +1,4 @@
 <strong>Hello and Welcome! 🙋🏾</strong>
-
 <details>
 <summary>⚙️</summary>
 <br>
@@ -35,5 +34,6 @@
 * [**Vault Settings**](https://github.com/IdaAkiwumi/No-AI-No-Cloud-Vault/settings/actions)
 
 </details>
+
 ### 🏆 Featured Projects
 
