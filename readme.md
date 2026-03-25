@@ -1,10 +1,9 @@
 <strong>Hello and Welcome! 🙋🏾</strong>
 
 ### 🏆 Featured Projects
----
 
 <details>
-<summary>⚙️ <b>System Status & Archive Maintenance</b></summary>
+<summary>⚙️ <b>System Maintenance Quick Links</b></summary>
 <br>
 
 ### 💰 Billing & Usage Overview
