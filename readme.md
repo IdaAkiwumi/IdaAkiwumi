@@ -1,7 +1,7 @@
 <strong>Hello and Welcome! 🙋🏾</strong>
 
 
-''# 🛠️ GitHub Asset & Cost Maintenance Dashboard
+'' # 🛠️ GitHub Asset & Cost Maintenance Dashboard
 **A centralized command center to monitor storage, billing, and hidden usage.**
 
 ---
@@ -44,4 +44,4 @@
 * [**Vault Retention Settings**](https://github.com/IdaAkiwumi/No-AI-No-Cloud-Vault/settings/actions)
 
 ---
-**Maintenance Frequency:** Perform a "Trash Run" every Sunday to keep the monthly average at $0.00.''
+**Maintenance Frequency:** Perform a "Trash Run" every Sunday to keep the monthly average at $0.00. ''
