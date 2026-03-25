@@ -1,9 +1,7 @@
 <strong>Hello and Welcome! 🙋🏾</strong>
 
-### 🏆 Featured Projects
-
 <details>
-<summary>⚙️ <b>System Maintenance Quick Links</b></summary>
+<summary>⚙️</summary>
 <br>
 
 ### 💰 Billing & Usage Overview
@@ -37,3 +35,5 @@
 * [**Vault Settings**](https://github.com/IdaAkiwumi/No-AI-No-Cloud-Vault/settings/actions)
 
 </details>
+### 🏆 Featured Projects
+
