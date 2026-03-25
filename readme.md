@@ -1,8 +1,10 @@
 <strong>Hello and Welcome! 🙋🏾</strong>
 
+### 🏆 Featured Projects
+---
 
 <details>
-<summary>🛠️ <b>Internal Maintenance Dashboard (Admin Only)</b></summary>
+<summary>⚙️ <b>System Status & Archive Maintenance</b></summary>
 <br>
 
 ### 💰 Billing & Usage Overview
