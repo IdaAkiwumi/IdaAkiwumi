@@ -1,7 +1,5 @@
-<strong>Hello and Welcome! 🙋🏾</strong>
 <details>
 <summary></summary>
-<br>
 
 ### 💰 Billing & Usage Overview
 * [**Main Billing Dashboard**](https://github.com/settings/billing/summary) — Check monthly $ balance.
@@ -33,5 +31,5 @@
 * [**Soundstage Settings**](https://github.com/IdaAkiwumi/narrative-soundstage/settings/actions)
 * [**Vault Settings**](https://github.com/IdaAkiwumi/No-AI-No-Cloud-Vault/settings/actions)
 </details>
-
-### 🏆 Featured Projects
+<strong>Hello and Welcome! 🙋🏾</strong>
+### 🏆 Featured Projects Below
