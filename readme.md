@@ -1,6 +1,6 @@
 <strong>Hello and Welcome! 🙋🏾</strong>
 <details>
-<summary>⚙️</summary>
+<summary></summary>
 <br>
 
 ### 💰 Billing & Usage Overview
