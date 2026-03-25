@@ -32,4 +32,5 @@
 * [**Vault Settings**](https://github.com/IdaAkiwumi/No-AI-No-Cloud-Vault/settings/actions)
 </details>
 <strong>Hello and Welcome! 🙋🏾</strong>
+
 ### 🏆 Featured Projects Below
